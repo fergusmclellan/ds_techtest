@@ -30,8 +30,6 @@ My solution is based on Python 3, relying heavily on Pandas to import and clean 
 3. The default input .csv file and default output summary file can be changed using the -i and -o flags. 
    Use "python datashed.py --help" for more information
 
-The Jenkinsfile which was used for testing the script in Docker is included on Github.
-
 Due to the use of Pandas, a Jupyter Notebook of the prototype solution is also included here for convenience. 
 
 ## Output files
